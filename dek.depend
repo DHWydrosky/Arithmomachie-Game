@@ -1,0 +1,820 @@
+# depslib dependency file v1.0
+1493068898 source:c:\users\macken\desktop\dek\board.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	"ok.h"
+
+1266115814 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1493068898 source:c:\users\macken\desktop\dek\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1493161216 c:\users\macken\desktop\dek\ok.h
+
+1493161216 source:c:\users\macken\desktop\dek\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1493161216 source:c:\users\macken\desktop\dek\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1495487688 source:c:\users\isa\desktop\dek\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1495424214 source:c:\users\isa\desktop\dek\board.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	"ok.h"
+
+1495417803 c:\users\isa\desktop\dek\ok.h
+
+1495490651 source:c:\users\isa\desktop\dek\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1495417550 source:c:\users\isa\desktop\dek\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1266115814 c:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1493158158 source:c:\users\isa\desktop\dek\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1495424824 source:c:\users\isa\desktop\dek\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1495487688 source:c:\users\isa\documents\arithmomachie\dek\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1495424214 source:c:\users\isa\documents\arithmomachie\dek\board.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	"ok.h"
+
+1495417803 c:\users\isa\documents\arithmomachie\dek\ok.h
+
+1495490651 source:c:\users\isa\documents\arithmomachie\dek\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1493158158 source:c:\users\isa\documents\arithmomachie\dek\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1495424824 source:c:\users\isa\documents\arithmomachie\dek\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1495417550 source:c:\users\isa\documents\arithmomachie\dek\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497047582 source:c:\users\isa\documents\arithmomachie\isa-d-k\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497050452 source:c:\users\isa\documents\arithmomachie\isa-d-k\board.c
+	"ok.h"
+
+1497047646 c:\users\isa\documents\arithmomachie\isa-d-k\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497050152 source:c:\users\isa\documents\arithmomachie\isa-d-k\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1496870631 source:c:\users\isa\documents\arithmomachie\isa-d-k\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497038539 source:c:\users\isa\documents\arithmomachie\isa-d-k\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1495417550 source:c:\users\isa\documents\arithmomachie\isa-d-k\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1496868687 source:c:\users\isa\documents\arithmomachie\isa-d-k\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497047639 source:c:\users\isa\documents\arithmomachie\isa-d-k\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497061504 source:c:\users\dell\desktop\isa-d-k-1\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497098211 c:\users\dell\desktop\isa-d-k-1\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497098487 source:c:\users\dell\desktop\isa-d-k-1\board.c
+	"ok.h"
+
+1497061505 source:c:\users\dell\desktop\isa-d-k-1\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497061506 source:c:\users\dell\desktop\isa-d-k-1\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497080709 source:c:\users\dell\desktop\isa-d-k-1\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497061505 source:c:\users\dell\desktop\isa-d-k-1\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497067663 source:c:\users\dell\desktop\isa-d-k-1\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497080996 source:c:\users\dell\desktop\isa-d-k-1\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497098367 source:c:\users\dell\desktop\isa-d-k-1\menu.c
+	"ok.h"
+
+1497108362 source:c:\users\isa\desktop\isa-d-k-341\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497108363 source:c:\users\isa\desktop\isa-d-k-341\menu.c
+	"ok.h"
+
+1497117865 c:\users\isa\desktop\isa-d-k-341\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497108373 source:c:\users\isa\desktop\isa-d-k-341\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497108360 source:c:\users\isa\desktop\isa-d-k-341\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497127210 source:c:\users\isa\desktop\isa-d-k-341\board.c
+	"ok.h"
+
+1497129687 source:c:\users\isa\desktop\isa-d-k-341\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497108361 source:c:\users\isa\desktop\isa-d-k-341\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497133895 source:c:\users\isa\desktop\isa-d-k-341\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497134221 source:c:\users\isa\desktop\isa-d-k-341\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497145297 source:c:\users\dell\desktop\isa-d-k-34156\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497148584 source:c:\users\dell\desktop\isa-d-k-34156\menu.c
+	"ok.h"
+
+1497145308 c:\users\dell\desktop\isa-d-k-34156\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497142884 source:c:\users\dell\desktop\isa-d-k-34156\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497151059 source:c:\users\dell\desktop\isa-d-k-34156\board.c
+	"ok.h"
+
+1497145296 source:c:\users\dell\desktop\isa-d-k-34156\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497145296 source:c:\users\dell\desktop\isa-d-k-34156\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497145297 source:c:\users\dell\desktop\isa-d-k-34156\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497145309 source:c:\users\dell\desktop\isa-d-k-34156\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497145309 source:c:\users\dell\desktop\isa-d-k-34156\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497145297 source:c:\users\dell\desktop\isa-d-k-34156fgdd\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497201656 source:c:\users\dell\desktop\isa-d-k-34156fgdd\menu.c
+	"ok.h"
+
+1497200205 c:\users\dell\desktop\isa-d-k-34156fgdd\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497199455 source:c:\users\dell\desktop\isa-d-k-34156fgdd\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497194174 source:c:\users\dell\desktop\isa-d-k-34156fgdd\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497200744 source:c:\users\dell\desktop\isa-d-k-34156fgdd\board.c
+	"ok.h"
+
+1497145296 source:c:\users\dell\desktop\isa-d-k-34156fgdd\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497145296 source:c:\users\dell\desktop\isa-d-k-34156fgdd\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497145297 source:c:\users\dell\desktop\isa-d-k-34156fgdd\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497145309 source:c:\users\dell\desktop\isa-d-k-34156fgdd\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497199231 source:c:\users\dell\desktop\isa-d-k-34156fgdd\entre.c
+	"ok.h"
+
+1497205416 source:c:\users\macken\desktop\isa-d-k-34156fgdd\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497277650 source:c:\users\macken\desktop\isa-d-k-34156fgdd\menu.c
+	"ok.h"
+
+1497277723 c:\users\macken\desktop\isa-d-k-34156fgdd\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497218229 source:c:\users\macken\desktop\isa-d-k-34156fgdd\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497219029 source:c:\users\macken\desktop\isa-d-k-34156fgdd\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497205408 source:c:\users\macken\desktop\isa-d-k-34156fgdd\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497205411 source:c:\users\macken\desktop\isa-d-k-34156fgdd\entre.c
+	"ok.h"
+
+1497277409 source:c:\users\macken\desktop\isa-d-k-34156fgdd\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497205422 source:c:\users\macken\desktop\isa-d-k-34156fgdd\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497225803 source:c:\users\macken\desktop\isa-d-k-34156fgdd\board.c
+	"ok.h"
+
+1497277409 source:c:\users\macken\desktop\isa-d-k-34156fgdd\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497205416 source:c:\users\macken\desktop\bon projet\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1497277650 source:c:\users\macken\desktop\bon projet\menu.c
+	"ok.h"
+
+1497277723 c:\users\macken\desktop\bon projet\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1497205422 source:c:\users\macken\desktop\bon projet\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497218229 source:c:\users\macken\desktop\bon projet\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497225803 source:c:\users\macken\desktop\bon projet\board.c
+	"ok.h"
+
+1497219029 source:c:\users\macken\desktop\bon projet\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497205408 source:c:\users\macken\desktop\bon projet\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497205411 source:c:\users\macken\desktop\bon projet\entre.c
+	"ok.h"
+
+1497277409 source:c:\users\macken\desktop\bon projet\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1497277409 source:c:\users\macken\desktop\bon projet\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497205416 source:c:\users\macken\desktop\modification\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1499114389 source:c:\users\macken\desktop\modification\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499118995 c:\users\macken\desktop\modification\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499118478 source:c:\users\macken\desktop\modification\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499114293 source:c:\users\macken\desktop\modification\board.c
+	"ok.h"
+
+1499118995 source:c:\users\macken\desktop\modification\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497205408 source:c:\users\macken\desktop\modification\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497205411 source:c:\users\macken\desktop\modification\entre.c
+	"ok.h"
+
+1499113905 source:c:\users\macken\desktop\modification\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499117796 source:c:\users\macken\desktop\modification\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499110962 source:c:\users\macken\desktop\modification\menu.c
+	"ok.h"
+
+1499110962 source:c:\users\macken\desktop\modification\pyrass.c
+	"ok.h"
+
+1497205416 source:c:\users\macken\desktop\projet final\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1499110962 source:c:\users\macken\desktop\projet final\menu.c
+	"ok.h"
+
+1499118995 c:\users\macken\desktop\projet final\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499114389 source:c:\users\macken\desktop\projet final\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499119142 source:c:\users\macken\desktop\projet final\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499119142 source:c:\users\macken\desktop\projet final\board.c
+	"ok.h"
+
+1499118995 source:c:\users\macken\desktop\projet final\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497205408 source:c:\users\macken\desktop\projet final\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497205411 source:c:\users\macken\desktop\projet final\entre.c
+	"ok.h"
+
+1499124394 source:c:\users\macken\desktop\projet final\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499124483 source:c:\users\macken\desktop\projet final\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499110962 source:c:\users\macken\desktop\projet final\pyrass.c
+	"ok.h"
+
+1497201816 source:c:\users\isa\desktop\projet final\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1499107364 source:c:\users\isa\desktop\projet final\menu.c
+	"ok.h"
+
+1499175660 c:\users\isa\desktop\projet final\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499110790 source:c:\users\isa\desktop\projet final\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499107364 source:c:\users\isa\desktop\projet final\pyrass.c
+	"ok.h"
+
+1499175660 source:c:\users\isa\desktop\projet final\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499175660 source:c:\users\isa\desktop\projet final\board.c
+	"ok.h"
+
+1499177039 source:c:\users\isa\desktop\projet final\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497201808 source:c:\users\isa\desktop\projet final\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497201812 source:c:\users\isa\desktop\projet final\entre.c
+	"ok.h"
+
+1499122826 source:c:\users\isa\desktop\projet final\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499177039 source:c:\users\isa\desktop\projet final\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1497176616 source:g:\projet final\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1499082164 source:g:\projet final\menu.c
+	"ok.h"
+
+1499150462 g:\projet final\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499085590 source:g:\projet final\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499082164 source:g:\projet final\pyrass.c
+	"ok.h"
+
+1499150462 source:g:\projet final\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499150462 source:g:\projet final\board.c
+	"ok.h"
+
+1499151840 source:g:\projet final\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497176608 source:g:\projet final\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1497176612 source:g:\projet final\entre.c
+	"ok.h"
+
+1499097626 source:g:\projet final\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499151840 source:g:\projet final\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1523673077 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1499107364 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\menu.c
+	"ok.h"
+
+1499175662 c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499110790 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499107364 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\pyrass.c
+	"ok.h"
+
+1499175662 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499175662 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\board.c
+	"ok.h"
+
+1523619262 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497201808 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1523673079 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\entre.c
+	"ok.h"
+
+1499122826 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499177040 source:c:\users\sherley\documents\2017-2018\jeux\arithmomachie\projet final\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1523673078 source:c:\users\personnel!!!\documents\arithmomachie\projet final\lespions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+
+1266115814 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1529042986 source:c:\users\personnel!!!\documents\arithmomachie\projet final\menu.c
+	"ok.h"
+
+1499175662 c:\users\personnel!!!\documents\arithmomachie\projet final\ok.h
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+
+1499110790 source:c:\users\personnel!!!\documents\arithmomachie\projet final\pyramide.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499107364 source:c:\users\personnel!!!\documents\arithmomachie\projet final\pyrass.c
+	"ok.h"
+
+1499175662 source:c:\users\personnel!!!\documents\arithmomachie\projet final\board 2.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
+1499175662 source:c:\users\personnel!!!\documents\arithmomachie\projet final\board.c
+	"ok.h"
+
+1523619264 source:c:\users\personnel!!!\documents\arithmomachie\projet final\debut.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+	"ok.h"
+
+1497201808 source:c:\users\personnel!!!\documents\arithmomachie\projet final\dep&rest.c
+	<stdlib.h>
+	<stdio.h>
+	<graphics.h>
+	<math.h>
+
+1523673080 source:c:\users\personnel!!!\documents\arithmomachie\projet final\entre.c
+	"ok.h"
+
+1499122826 source:c:\users\personnel!!!\documents\arithmomachie\projet final\manger_pions.c
+	<stdlib.h>
+	"ok.h"
+
+1499177040 source:c:\users\personnel!!!\documents\arithmomachie\projet final\restrictions.c
+	<stdio.h>
+	<math.h>
+	<graphics.h>
+	"ok.h"
+
